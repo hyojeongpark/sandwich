@@ -55,7 +55,7 @@ func main() {
 
 	PutJamOnBread(breads[0], spoon)
 	//PutJamOnBread(breads[0], spoon)
-	//PutJamOnBread(breads[1], spoon) //잼을 한번만 더 바를때
+	PutJamOnBread(breads[1], spoon) //잼을 한번만 더 바를때
 	// for i := 0; i < len(breads); i++ {
 	// 	PutJamOnBread(breads[i], spoon)
 	// }
